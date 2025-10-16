@@ -102,7 +102,7 @@ You can access the full interactive code on **Google Earth Engine** here:
 ## 👨‍💻 Author
 **Niloy Das**  
 📫 *Email:* ndas49784@gmail.com  
-🔗 *LinkedIn:* [niloydas34(https://www.linkedin.com/in/niloydas34/)]  
+🔗 *LinkedIn:* [niloydas34](https://www.linkedin.com/in/niloydas34/)  
 
 
 ---
