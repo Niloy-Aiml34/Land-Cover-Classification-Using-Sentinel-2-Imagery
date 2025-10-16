@@ -54,7 +54,7 @@ To build a supervised classification model that accurately categorizes land cove
 > **Color Legend:**  
 > 🟦 Blue → Water body  🟥 Red → Urban  🟨 Yellow → Farmland  🟩 Green → Forest
 
-📍 *Insert screenshot of the classified land cover map below:*
+
 
 ![Classified Land Cover Map – Kolkata 2023](./screentshots/land_cover_classification_around_kolkata.png)
 
